@@ -1,0 +1,7 @@
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\Dockerapi.exe
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\appsettings.Development.json
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\appsettings.json
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\Dockerapi.dll
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\Dockerapi.deps.json
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\Dockerapi.runtimeconfig.json
+C:\Users\JeniferY\Desktop\MSatak\Dockerapi\Dockerapi\obj\Docker\publish\Dockerapi.pdb

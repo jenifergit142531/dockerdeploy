@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b6hCjeFCZcmsKR6lTmTWkrdIvNcsIP4XlJstZXWHfIk=",
+  "Source": "Dockerapi",
+  "BasePath": "_content/Dockerapi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
